@@ -6,8 +6,8 @@
 - **Exchange Student**, University of California, Berkeley, CA (Jan 2024 - Present)
 
 🔬 **Research Experience**
-- **INFONET Lab**, GIST (Oct 2023 - Dec 2023)
-- **Network and Security Lab**, GIST (Dec 2020 - Oct 2021)
+- **INFONET Lab**, GIST (Oct 2023 - Dec 2023) - [Lab Website](https://heungno.net/)
+- **Network and Security Lab**, GIST (Dec 2020 - Oct 2021) - [Lab Website](https://hlim.kentech.ac.kr/)
 
 📝 **Publications**
 - "Replaying Captured Traffic Flows in Raspberry Pi based Controller Area Network," KICS (2021)
