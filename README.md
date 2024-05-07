@@ -12,7 +12,7 @@
 💻 **Technical Skills**
 - **Advanced**: Python
 - **Intermediate**: C++, Java, Arduino
-- **Frameworks**: PyTorch, TensorFlow
+- **Frameworks**: PyTorch, TensorFlow, Hugging Face Transformers
 - **Libraries**: OpenCV, scikit-learn
 
 🔗 **Links**
